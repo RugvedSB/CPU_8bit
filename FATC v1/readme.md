@@ -92,7 +92,8 @@ This project was implemented using an open-source RTL-to-GDS flow.
 
 The final ASIC layout was successfully generated and viewed using Magic VLSI.
 
-(Insert layout image here)
+<img width="967" height="912" alt="Screenshot 2026-02-15 123543" src="https://github.com/user-attachments/assets/e5ae4d85-5271-439b-bfef-901d84239469" />
+
 
 ---
 
@@ -123,3 +124,4 @@ Designed and implemented as a learning project to gain hands-on experience in RT
 ---
 
 ## ⭐ If you found this project interesting, feel free to star the repository!
+
