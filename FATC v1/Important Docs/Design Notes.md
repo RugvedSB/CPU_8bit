@@ -1,4 +1,4 @@
-# FATC v1(Fixed Arithmatic & Control CPU) – Design Notes
+# FATC v1(Fixed Arithematic & Control CPU) – Design Notes
 
 ## 1. Architecture Overview
 
@@ -65,3 +65,4 @@ Flags:
 - Basic instruction set (ISA)
 - Program memory
 - Extended flags
+
