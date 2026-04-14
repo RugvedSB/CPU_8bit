@@ -122,8 +122,6 @@ Simulation confirms correct functionality and sequencing.
 
 The final ASIC layout was successfully generated and visualized using Magic VLSI.
 
-## 🖼 Layout
-
 <p align="center">
   <img src="Results/Magic VLSI Image.png" alt="FATCv2 Layout" width="600"/>
 </p>
